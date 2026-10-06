@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://importadoraelguizam.com/sitemap.xml
